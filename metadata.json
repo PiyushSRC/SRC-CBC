@@ -1,0 +1,6 @@
+{
+  "name": "SRC CBC",
+  "description": "Automated medical lab sample comparison and report generation tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
